@@ -16,11 +16,8 @@ class Solution:
         return 0 
         
 class_result = Solution()
-
-#Вывод результата
 print(class_result.romanToInt("III"))
 print(class_result.romanToInt("IV"))
 print(class_result.romanToInt("IX"))
 print(class_result.romanToInt("LVIII"))
 print(class_result.romanToInt("MCMXCIV"))
-#Вывод результат
