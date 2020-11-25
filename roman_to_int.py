@@ -15,9 +15,7 @@ class Solution:
                     return number + self.romanToInt(''.join(arr[1]))
         return 0 
         
-#для удобства присваиваем переменной вызов класса
 class_result = Solution()
-#для удобства присваиваем переменной вызов класса
 
 #Вывод результата
 print(class_result.romanToInt("III"))
